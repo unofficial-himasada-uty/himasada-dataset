@@ -1,5 +1,5 @@
 # Himasada Dataset
-Selamat datang di Himasadata Open Data!
+Selamat datang di Himasadata Open Data!<br>
 Tujuan utama dibuatnya repositori ini adalah untuk menyediakan kumpulan data yang beragam dan mudah diakses bagi yang ingin belajar, berlatih, atau mengembangkan proyek. Repositori ini dikelola oleh komunitas dan untuk komunitas.
 
 ## 📚 Daftar Dataset
@@ -18,4 +18,4 @@ Kami sangat terbuka untuk kontribusi dari siapa pun. Jika memiliki dataset yang 
 
 ## 📜 Lisensi
 
-Repositori ini dan seluruh konten di dalamnya dilisensikan di bawah **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Anda bebas menggunakan dan memodifikasi data ini selama Anda memberikan **atribusi** (kredit ke sumber), tidak untuk tujuan **komersial**, dan membagikan karya turunan dengan **lisensi yang sama**.
+Repositori ini dan seluruh konten di dalamnya dilisensikan di bawah **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Anda bebas menggunakan dan memodifikasi data ini selama memberikan atribusi (kredit ke sumber), tidak untuk tujuan komersial, dan membagikan karya turunan dengan lisensi yang sama.
