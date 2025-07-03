@@ -1,5 +1,5 @@
 # Himasada Dataset
-Selamat datang di Himasadata Open Data!<br><br>
+Selamat datang di Himasada Open Data!<br><br>
 Tujuan utama dibuatnya repositori ini adalah untuk menyediakan kumpulan data yang beragam dan mudah diakses bagi yang ingin belajar, berlatih, atau mengembangkan proyek. Repositori ini dikelola oleh komunitas dan untuk komunitas.
 
 ## 📚 Daftar Dataset
