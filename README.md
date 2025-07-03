@@ -8,7 +8,7 @@ Berikut adalah daftar dataset yang tersedia.
 
 | Nama Dataset                                         | Deskripsi Singkat                                                               | Format File |
 | :--------------------------------------------------- | :------------------------------------------------------------------------------ | :---------- |
-| 📁 `data citra/rempah-rempah`                       | Kumpulan data historis harga komoditas pangan di berbagai provinsi di Indonesia. | `.jpg`      |
+| 📁 `data citra/rempah-rempah`                       | Kumpulan citra rempah yang terdiri dari jahe, kencur, kunyit, dan lengkuas. | `.jpg`      |
 
 ## ✨ Cara Berkontribusi
 
